@@ -1,5 +1,6 @@
 body {
   background-color: #f8e8a6;
+  margin: 8px;
 }
 h1 {
   text-align: center;
@@ -7,6 +8,17 @@ h1 {
 p {
   text-align: center;
 }
-a {
+.link {
   color: green;
+  margin: 10px;
+}
+.links {
+  display: block;
+  text-align: center;
+}
+.croisant-photo {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
 }
